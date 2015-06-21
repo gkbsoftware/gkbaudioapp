@@ -1,0 +1,26 @@
+{
+  "name": "gkbaudioapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^1.1.0",
+    "express": "^4.12.4",
+    "express-react-views": "^0.8.1",
+    "react": "^0.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gkbsoftware/gkbaudioapp.git"
+  },
+  "author": "Gregory Barnes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gkbsoftware/gkbaudioapp/issues"
+  },
+  "homepage": "https://github.com/gkbsoftware/gkbaudioapp#readme"
+}
